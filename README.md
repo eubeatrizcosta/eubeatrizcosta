@@ -37,4 +37,3 @@ Atualmente, estou focada em aprimorar minhas habilidades em *React.js, **TypeScr
 </div>
 
 ---
-O
