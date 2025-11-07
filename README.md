@@ -2,7 +2,7 @@
 
 Sou uma Desenvolvedora Front-end em transição de carreira, apaixonada por criar interfaces bonitas, funcionais e que proporcionam uma ótima experiência ao usuário.
 
-Atualmente, estou focada em aprimorar minhas habilidades em *React.js, **TypeScript* e *Sass*, construindo projetos desafiadores e aprendendo continuamente.
+Atualmente, estou focada em aprimorar minhas habilidades em *React.js*, *TypeScript* e *Sass*, construindo projetos desafiadores e aprendendo continuamente.
 
 ---
 
